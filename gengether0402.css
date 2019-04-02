@@ -79,10 +79,10 @@ header #right-search-form>input[type='text']:focus {
 }
 
 
-.btn.square {
+.btn.square { 
+    color: #fff !important
     border-radius: 15px;
     background-color: #f8bbd0;
-    border: 1.5px solid #f8bbd0;
     font-size: 12px;
 }
 
