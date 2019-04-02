@@ -1,10 +1,10 @@
-/* À¥ ÆùÆ® ºÒ·¯¿À±â */
+/* ì›¹ í°íŠ¸ ë¶ˆëŸ¬ì˜¤ê¸° */
 @import url(https://cdn.jsdelivr.net/nanumsquare/1.0/nanumsquare.css);
 @import url(https://fonts.googleapis.com/earlyaccess/nanumgothic.css);
 
-/* ¸ŞÀÎ µğÀÚÀÎ ¼³Á¤ */
+/* ë©”ì¸ ë””ìì¸ ì„¤ì • */
 html{height:inherit;}
-body{background:#fff;height:initial;font:13px "³ª´®°íµñ","NanumGothic","NanumGothicWebFont","Malgun Gothic","¸¼Àº °íµñ","Dotum","µ¸¿ò","Helvetica","Apple SD Gothic Neo","sans-serif";letter-spacing:-.7px;padding-bottom:0;}
+body{background:#fff;height:initial;font:13px "ë‚˜ëˆ”ê³ ë”•","NanumGothic","NanumGothicWebFont","Malgun Gothic","ë§‘ì€ ê³ ë”•","Dotum","ë‹ì›€","Helvetica","Apple SD Gothic Neo","sans-serif";letter-spacing:-.7px;padding-bottom:0;}
 #main #main-content .frame{height:100%;border:1px solid rgba(0,0,0,.15);border-width:1px 2px 2px 1px;padding:5px;margin-bottom:15px;}
 
 
@@ -151,14 +151,14 @@ header #header-bar #header-top-notice strong.notice-badge {
 }
 
 #board-info #viewers-area #viewers:before {
-    content: "Æ®¼öÄï ";
+    content: "íŠ¸ìˆ˜ì¿¤ ";
 }
 
 #board-info #viewers-area #viewers:after {
-    content: "¸í ³ª ³î¸®°íÀÖ³É?"
+    content: "ëª… ë‚˜ ë†€ë¦¬ê³ ìˆëƒ¥?"
 }
 
-/**°Ô½Ã±Û**/
+/**ê²Œì‹œê¸€**/
 #article-info {
 	background: white;
 	border: 2px solid  #f8bbd0;
@@ -296,7 +296,7 @@ background-color: #f48fb1;
 }
 
 .btn.square {
-    border-radius: 0px;
+    border-radius: 15px;
     border: 1px solid transparent;
     font-size: 12px;
 }
