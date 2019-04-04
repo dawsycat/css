@@ -1,0 +1,46 @@
+﻿
+.input-group .form-control:not(:first-child):not(:last-child), .input-group-addon:not(:first-child):not(:last-child), .input-group-btn:not(:first-child):not(:last-child) {
+}
+
+.btn-default.active.focus, .btn-default.active:focus, .btn-default.active:hover, .btn-default:active.focus, .btn-default:active:focus, .btn-default:active:hover, .open>.dropdown-toggle.btn-default.focus, .open>.dropdown-toggle.btn-default:focus, .open>.dropdown-toggle.btn-default:hover {
+    color: #fff !important;
+    background-color: #ec407a;
+    border-color: transparent;
+}
+
+.btn.square {
+     border-radius:15px 0 0 15px;
+     color: #fff !important;
+        border: 1px solid #f8bbd0;
+}
+
+.input-group-btn:last-child>.btn, .input-group-btn:last-child>.btn-group {
+    z-index: 2;
+    margin-left: -1px;
+    border-radius: 0 15px 15px 0;
+}
+
+header #header-bar #header-top-notice strong.notice-badge {
+    background: #f48fb1;
+    border-radius: 15px;
+}
+
+.pagination>li>a, .pagination>li>span {
+    border-radius: 15px;
+    position: relative;
+    float: left;
+    padding: 6px 12px;
+    margin-left: -1px;
+    line-height: 1.42857143;
+    text-decoration: none;
+    background-color: #fff;
+    border: 1px solid #ddd;
+}
+
+.pagination>li:last-child>a, .pagination>li:last-child>span {
+    border-radius: 15px;
+}
+
+.pagination>li:first-child>a, .pagination>li:first-child>span{
+border-radius:15px;
+}
