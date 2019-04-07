@@ -1,0 +1,14 @@
+﻿
+
+@font-face {
+    
+font-family: 'BMJUA';
+    
+src: url('BMJUA.woff2') format('woff2'),
+        
+ url('BMJUA.woff') format('woff');
+    
+font-weight: normal;
+    font-style: normal;
+
+}
