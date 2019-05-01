@@ -263,7 +263,49 @@ header #header-bar #header-top-notice strong.notice-badge {
 }
 
 
-#article-list>.article-list-row.hot  {
+#article-list>.article-list-row.hot  {background: linear-gradient(-45deg, #f48fb1, #fce4ec, #ffe8f0, #f48fb1);
+	background-size: 400% 400%;
+	-webkit-animation: Gradient 20s ease infinite;
+	-moz-animation: Gradient 20s ease infinite;
+	animation: Gradient 20s ease infinite;
+}
+
+@-webkit-keyframes Gradient {
+	0% {
+		background-position: 0% 50%
+	}
+	50% {
+		background-position: 100% 50%
+	}
+	100% {
+		background-position: 0% 50%
+	}
+}
+
+@-moz-keyframes Gradient {
+	0% {
+		background-position: 0% 50%
+	}
+	50% {
+		background-position: 100% 50%
+	}
+	100% {
+		background-position: 0% 50%
+	}
+}
+
+@keyframes Gradient {
+	0% {
+		background-position: 0% 50%
+	}
+	50% {
+		background-position: 100% 50%
+	}
+	100% {
+		background-position: 0% 50%
+	}
+};} 
+
 background-color: #f48fb1;
 }
 
@@ -514,7 +556,7 @@ small.favo i.fa.fa-heart {
 }
 
 #article-list #article-option-area> #article-option-area-toggle-btn {
-	background: #f06292;
+	background: transparent;
 	width: 34px;
 	height: 34px;
 	border: 0px solid;
