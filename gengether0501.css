@@ -142,6 +142,8 @@ header #header-bar>.row {
 
 /*board*/
 
+#article-list>.article-list-row>.item>.list-title>.list-category>span{
+overflow: visible;}
 
 #article-list>.article-list-row.notice {
     background-color: #fff5f9;
@@ -308,11 +310,18 @@ header #header-bar>.row {
 background-color: #f48fb1;
 }
 
+#main .menu-wrapper>a{
+    font-weight: 600;
+    font-size: 13.5px;
+    padding: 0.5em 1.5em 0.5em 0.7em;
+}
 #main .menu-wrapper>a>em {
 
     color: #fce4ec;
 
 }
+
+
 
 #board-info h1>a {
 
@@ -344,6 +353,13 @@ background-color: #f48fb1;
 }
 
 /*buttons*/
+
+button#writeCommentBtn:hover{
+    background: #f8bbd0 !important; 
+}
+button#article-write-button:hover{
+background: #f8bbd0 !important; 
+}
 
 #board-info #board-info-bottom #addFavoriteBtn{
 color:#fbc709;
@@ -642,6 +658,22 @@ background: #ffceea;
     border-bottom: 1px solid #f8bbd0;
     width: calc(100% - 100px);
 }
+
+#board-info h1>a.badge.badge-live {
+    font-size: 0px;
+    background: #c00;
+    color: #fff !important;
+    text-decoration: none;
+padding-bottom: 6px;
+    padding-top: 4px;
+}
+
+#board-info h1>a.badge.badge-live::after {
+  content: '생방송 바로가기!';
+  color: white !important;
+  font-size: 14px !important;
+}
+
 #board-info {
     margin: 0;
     height: auto;
