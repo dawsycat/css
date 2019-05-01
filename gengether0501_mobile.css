@@ -71,7 +71,6 @@ header>#header-area>#header-search-link {
 }
 
 
-
 header > #header-search-bar #header-search-btn {
 
     color: #f48fb1; 
@@ -119,7 +118,7 @@ header {
 
 #article-list>.article-list-row.notice {
 
-    background-color: #fce4ec; 
+    background-color: #fff5f9; 
 }
 
 /* 글 추천 수 */
@@ -166,6 +165,12 @@ header {
 
 /* 글 쓰기 버튼 */
 
+button#writeCommentBtn:hover{
+    background: #f8bbd0 !important; 
+}
+button#article-write-button:hover{
+background: #f8bbd0 !important; 
+}
 
 
 #article-list-menu>.btn.write {
