@@ -54,7 +54,7 @@ header>#header-area>#header-bar-link {
     display: inline-block;
     text-decoration: none;
     float: left;
-    color: #f8bbd0;
+    color: #ffa1ca;
     padding: 0 16px 8px;
 }
 header > #header-search-bar #header-close-search-btn {
@@ -66,7 +66,7 @@ header > #header-search-bar #header-close-search-btn {
 }
 header>#header-area>#header-search-link {
 
-    color: #f8bbd0;
+    color: #ffd7db;
 
 }
 
@@ -296,7 +296,7 @@ border-color: transparent;
 #article-list #article-list-category>a {
     display: inline-block;
     padding: 11px 16px;
-    background: #ff9cbd;
+    background: #f8bbd0;
     text-decoration: none;
     font-size: 12px;
     font-weight: bold;
