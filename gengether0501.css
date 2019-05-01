@@ -537,7 +537,7 @@ border-radius:15px;
 }
 
 small.favo i.fa.fa-heart {
-
+    color: #f48fb1;
     animation: heartbeat 1s infinite;
 
 }
