@@ -313,9 +313,13 @@ background-color: #f48fb1;
 }
 
 #main .menu-wrapper>a{
+    display: block;
     font-weight: 600;
+    background: #fff;
     font-size: 13.5px;
+    color: #000;
     padding: 0.5em 1.5em 0.5em 0.7em;
+    border-bottom: 2px solid #f1f1f1;
 }
 #main .menu-wrapper>a>em {
 
