@@ -149,10 +149,6 @@ header #header-bar #header-top-notice strong.notice-badge {
     background-color: #fce4ec;
 }
 
-#article-list>.article-list-row>.item>.list-header>span {
-
-    background-color: #f48fb1;
-}
 #article-list>.article-list-row>.item>.list-title>a {
     color: #000;
     text-decoration: none;
