@@ -146,6 +146,8 @@ header #header-bar>.row {
 overflow: visible;}
 
 #article-list>.article-list-row.notice {
+    border-left:2px solid #f8bbd0;
+    border-right:2px solid #f8bbd0;
     background-color: #fff5f9;
 }
 
