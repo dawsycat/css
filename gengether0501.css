@@ -258,7 +258,7 @@ header #header-bar #header-top-notice strong.notice-badge {
 
 #article-list>.article-list-row>.item>.list-header>span {
 
-    color: #f48fb1
+    color: #f48fb1;
     background-color: transparent;
 
 }
