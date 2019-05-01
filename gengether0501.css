@@ -118,8 +118,6 @@ header #header-bar>.row {
     border-radius: 15px 15px 0 0;
 }
 
-header #header-bar #header-top-notice strong.notice-badge {
-    background: #f48fb1;}
 
 #main .menu-wrapper {
     border: 2px solid #f48fb1;
@@ -146,7 +144,7 @@ header #header-bar #header-top-notice strong.notice-badge {
 
 
 #article-list>.article-list-row.notice {
-    background-color: #fce4ec;
+    background-color: #fff5f9;
 }
 
 #article-list>.article-list-row>.item>.list-title>a {
