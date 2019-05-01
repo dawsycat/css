@@ -109,7 +109,7 @@ header #header-bar #header-top-notice strong.notice-badge {
 }
 
 header #header-bar>.row, #main .menu-wrapper, #main #main-content>div.frame {
-    border-radius: 20px;
+    border-radius: 10px;
 }
 
 header #header-bar>.row {
