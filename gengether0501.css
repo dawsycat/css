@@ -120,6 +120,7 @@ header #header-bar>.row {
 
 
 #main .menu-wrapper {
+    font-weight: 600;
     border: 2px solid #f48fb1;
     border-radius: 10px 10px 0 0;
     border-top: 1px solid #f48fb1 !important;
