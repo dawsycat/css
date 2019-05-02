@@ -653,6 +653,7 @@ background: #ffceea;
 #board-info > #board-info-bottom {
      float: left !important;
     margin-top: 8px;
+    margin-left: 4px;
 }
 #board-info #board-info-bottom a {
     color: #e91e63;
@@ -664,7 +665,8 @@ background: #ffceea;
     transition: 0.2s;
 }
 #board-info h1>a {
-    font-weight: 600;
+    margin-left: -20px;
+    font-weight: bolder;
     transition: 0.2s;
 }
 #board-info h1 {
