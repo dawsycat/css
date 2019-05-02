@@ -17,6 +17,7 @@ header .row>div:nth-child(1)>a {
   background: url(https://dawsycat.github.io/css/gentabiglogo.png) no-repeat;
   background-size: auto 60px;
   margin-bottom:-15px;
+  margin-top:-15px;
 }
 
 header .row>div:nth-child(1) > a > img {
@@ -25,19 +26,17 @@ header .row>div:nth-child(1) > a > img {
 
 /*background*/
 
+
 html {
-
-   background: linear-gradient(to bottom, #fad5e5, #f5989f);
-
+  padding:20px 45px 45px; 0 0/250px 60px;
+  background: linear-gradient(to bottom, #fad5e5, #f5989f);
   height: auto !important;
-
 }
 
 
 body {
-
 background: transparent;
-
+min-width:1140px;
 animation: snow 35s linear infinite;
 
 
