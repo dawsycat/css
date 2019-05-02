@@ -326,11 +326,16 @@ background-color: #f48fb1;
 }
 
 
-
 #board-info h1>a {
 
-    color: #d81b60 !important;
+    color: #d81b60;
 
+}
+
+#board-info h1>a:hover {
+    color: #f48fb1;
+    font-weight: 600;
+    transition: all 150ms ease-in-out;
 }
 
 #article-list>.article-list-row>.item>.list-title>.list-writer.logged>span {
@@ -360,9 +365,11 @@ background-color: #f48fb1;
 
 button#writeCommentBtn:hover{
     background: #f8bbd0 !important; 
+    transition: all 150ms ease-in-out;
 }
 button#article-write-button:hover{
 background: #f8bbd0 !important; 
+    transition: all 150ms ease-in-out;
 }
 
 #board-info #board-info-bottom #addFavoriteBtn{
@@ -442,6 +449,7 @@ color: #efc839 !important;
 .btn.focus, .btn:focus, .btn:hover {
     color: #fff !important;
     text-decoration: none;
+    transition: all 150ms ease-in-out;
 }
 .btn-primary.active.focus, .btn-primary.active:focus, .btn-primary.active:hover, .btn-primary:active.focus, .btn-primary:active:focus, .btn-primary:active:hover, .open>.dropdown-toggle.btn-primary.focus, .open>.dropdown-toggle.btn-primary:focus, .open>.dropdown-toggle.btn-primary:hover {
     color: #fff !important;
