@@ -126,9 +126,8 @@ header {
 
 
 #article-list>.article-list-row>.item>.list-header>span {
-
-    background-color: #f48fb1; 
-
+    color: #f48fb1;
+    background-color: transparent;
 }
 
 /* 댓글 수 */
