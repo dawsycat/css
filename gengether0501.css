@@ -646,7 +646,7 @@ background: #ffceea;
     transition: 0.2s;
 }
 
-#board-info>img, #board-info>h1, #board-info>#board-info-bottom{
+#board-info>img, #board-info>h1{
      float: right;
 }
 
