@@ -645,9 +645,11 @@ background: #ffceea;
     border-radius: 20px;
     transition: 0.2s;
 }
-#board-info>img, #board-info>h1, #board-info>#board-info-bottom {
-    float: left!important;
+
+#board-info>img, #board-info>h1, #board-info>#board-info-bottom{
+     float:right !important
 }
+
 #board-info > #board-info-bottom {
     margin-top: 8px;
 }
@@ -665,9 +667,9 @@ background: #ffceea;
     transition: 0.2s;
 }
 #board-info h1 {
+    border-bottom: 2px solid #ffceea;
     margin-top: 1px;
     font-size: 25px;
-    border-bottom: 1px solid #f8bbd0;
     width: calc(100% - 100px);
 }
 
