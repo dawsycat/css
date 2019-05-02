@@ -647,7 +647,7 @@ background: #ffceea;
 }
 
 #board-info>img, #board-info>h1{
-     float: right;
+     float: right !important;
 }
 
 #board-info > #board-info-bottom {
