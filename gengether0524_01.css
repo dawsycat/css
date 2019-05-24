@@ -4,7 +4,8 @@
 
 /* 메인 디자인 설정 */
 html{height:inherit;}
-body{background:transparent;
+body{
+background:transparent !important;
 height:initial;
 padding-bottom:0;
 min-width:1140px;
