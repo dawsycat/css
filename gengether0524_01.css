@@ -4,7 +4,11 @@
 
 /* 메인 디자인 설정 */
 html{height:inherit;}
-body{background:#fff;height:initial;padding-bottom:0;}
+body{background:#transparent;
+height:initial;
+padding-bottom:0;
+min-width:1140px;
+}
 #main #main-content .frame{height:100%;border:1px solid rgba(0,0,0,.15);border-width:1px 2px 2px 1px;padding:5px;margin-bottom:15px;}
 
 
@@ -26,10 +30,6 @@ header .row>div:nth-child(1) > a > img {
 
 /*background*/
 
-body {
-background: transparent !important;
-min-width:1140px;
-}
 
 html {
   padding:20px 45px 45px; 0 0/250px 60px;
