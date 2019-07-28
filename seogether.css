@@ -1,0 +1,1353 @@
+﻿/*css 위반사항 관련으로 먼저 '도시냥이' 계정에 쪽지라도 주세요. 메일 답장도 안하시니 제재 되는 부분이 어디인지 모르겠습니다.*/
+/* Desktop */
+Style Attribute {
+    background: #fff;
+    background: #fff;
+    padding: 20px 0;
+    margin-top: 0px;
+    text-align: center;
+}
+ 
+ 
+@font-face { font-family: 'KHNPHD'; src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_one@1.0/KHNPHD.woff') format('woff'); font-weight: normal; font-style: normal; }
+body{font-family: 'KHNPHD';
+}
+ 
+/* custom-emote */
+ 
+/* DansGame SwiftRage  */
+/* KevinTurtle  */
+#article-content-wrapper #article-content img[alt='FrankerZ'],
+img[alt='FrankerZ'] {
+  width: 60px;
+  height: 60px !important;
+  padding-left: 60px;
+  background: url(https://dawsycat.github.io/css/m_emote_14.gif) no-repeat;
+  background-size: 60px;
+  background-position: center;
+}
+span[data-param1='FrankerZ']:hover>img,
+span[data-param1='FrankerZ']>img {
+  width: 30px;
+  height: 30px;
+  padding-left: 30px;
+  background: url(https://dawsycat.github.io/css/m_emote_14.gif) no-repeat;
+  background-size: 30px;
+  background-position: center;
+}
+ 
+#article-content-wrapper #article-content img[alt='ArsonNoSexy'],
+img[alt='ArsonNoSexy'] {
+  width: 60px;
+  height: 60px !important;
+  padding-left: 60px;
+  background: url(https://dawsycat.github.io/css/m_emote_13.gif) no-repeat;
+  background-size: 60px;
+  background-position: center;
+}
+span[data-param1='ArsonNoSexy']:hover>img,
+span[data-param1='ArsonNoSexy']>img {
+  width: 30px;
+  height: 30px;
+  padding-left: 30px;
+  background: url(https://dawsycat.github.io/css/m_emote_13.gif) no-repeat;
+  background-size: 30px;
+  background-position: center;
+}
+ 
+#article-content-wrapper #article-content img[alt='Kreygasm'],
+img[alt='Kreygasm'] {
+  width: 60px;
+  height: 60px !important;
+  padding-left: 60px;
+  background: url(https://dawsycat.github.io/css/s_emote_03.png) no-repeat;
+  background-size: 60px;
+  background-position: center;
+}
+ 
+span[data-param1='Kreygasm']:hover>img,
+span[data-param1='Kreygasm']>img {
+  width: 30px;
+  height: 30px;
+  padding-left: 30px;
+  background: url(https://dawsycat.github.io/css/s_emote_03.png) no-repeat;
+  background-size: 30px;
+  background-position: center;
+}
+#article-content-wrapper #article-content img[alt='KevinTurtle'],
+img[alt='KevinTurtle'] {
+  width: 60px;
+  height: 60px !important;
+  padding-left: 60px;
+  background: url(https://dawsycat.github.io/css/m_emote_11.gif) no-repeat;
+  background-size: 60px;
+  background-position: center;
+}
+span[data-param1='KevinTurtle']:hover>img,
+span[data-param1='KevinTurtle']>img {
+  width: 30px;
+  height: 30px;
+  padding-left: 30px;
+  background: url(https://dawsycat.github.io/css/m_emote_11.gif) no-repeat;
+  background-size: 30px;
+  background-position: center;
+}
+#article-content-wrapper #article-content img[alt='PJSalt'],
+img[alt='PJSalt'] {
+  width: 60px;
+  height: 60px !important;
+  padding-left: 60px;
+  background: url(https://dawsycat.github.io/css/m_emote_10.gif) no-repeat;
+  background-size: 80px;
+  background-position: center;
+}
+ 
+span[data-param1='PJSalt']:hover>img,
+span[data-param1='PJSalt']>img {
+  width: 30px;
+  height: 30px;
+  padding-left: 30px;
+  background: url(https://dawsycat.github.io/css/m_emote_10.gif) no-repeat;
+  background-size: 30px;
+  background-position: center;
+}
+#article-content-wrapper #article-content img[alt='PunchTrees'],
+img[alt='PunchTrees'] {
+  width: 60px;
+  height: 60px !important;
+  padding-left: 60px;
+  background: url(https://dawsycat.github.io/css/m_emote_12.gif) no-repeat;
+  background-size: 80px;
+  background-position: center;
+}
+ 
+span[data-param1='PunchTrees']:hover>img,
+span[data-param1='PunchTrees']>img {
+  width: 30px;
+  height: 30px;
+  padding-left: 30px;
+  background: url(https://dawsycat.github.io/css/m_emote_12.gif) no-repeat;
+  background-size: 30px;
+  background-position: center;
+}
+#article-content-wrapper #article-content img[alt='SwiftRage'],
+img[alt='SwiftRage'] {
+  width: 60px;
+  height: 60px !important;
+  padding-left: 60px;
+  background: url(https://dawsycat.github.io/css/m_emote_8.gif) no-repeat;
+  background-size: 80px;
+  background-position: center;
+}
+ 
+span[data-param1='SwiftRage']:hover>img,
+span[data-param1='SwiftRage']>img {
+  width: 30px;
+  height: 30px;
+  padding-left: 30px;
+  background: url(https://dawsycat.github.io/css/m_emote_8.gif) no-repeat;
+  background-size: 30px;
+  background-position: center;
+}
+#article-content-wrapper #article-content img[alt='DansGame'],
+img[alt='DansGame'] {
+  width: 60px;
+  height: 60px !important;
+  padding-left: 60px;
+  background: url(https://dawsycat.github.io/css/m_emote_9.gif) no-repeat;
+  background-size: 80px;
+  background-position: center;
+}
+ 
+span[data-param1='DansGame']:hover>img,
+span[data-param1='DansGame']>img {
+  width: 30px;
+  height: 30px;
+  padding-left: 30px;
+  background: url(https://dawsycat.github.io/css/m_emote_9.gif) no-repeat;
+  background-size: 30px;
+  background-position: center;
+}
+ 
+#article-content-wrapper #article-content img[alt='GingerPower'],
+img[alt='GingerPower'] {
+  width: 60px;
+  height: 60px !important;
+  padding-left: 60px;
+  background: url(https://dawsycat.github.io/css/m_emote_7.gif) no-repeat;
+  background-size: 80px;
+  background-position: center;
+}
+ 
+span[data-param1='GingerPower']:hover>img,
+span[data-param1='GingerPower']>img {
+  width: 30px;
+  height: 30px;
+  padding-left: 30px;
+  background: url(https://dawsycat.github.io/css/m_emote_7.gif) no-repeat;
+  background-size: 30px;
+  background-position: center;
+}
+ 
+#article-content-wrapper #article-content img[alt='BCWarrior'],
+img[alt='BCWarrior'] {
+  width: 60px;
+  height: 60px !important;
+  padding-left: 60px;
+  background: url(https://dawsycat.github.io/css/m_emote_6.gif) no-repeat;
+  background-size: 80px;
+  background-position: center;
+}
+ 
+span[data-param1='BCWarrior']:hover>img,
+span[data-param1='BCWarrior']>img {
+  width: 30px;
+  height: 30px;
+  padding-left: 30px;
+  background: url(https://dawsycat.github.io/css/m_emote_6.gif) no-repeat;
+  background-size: 30px;
+  background-position: center;
+}
+ 
+#article-content-wrapper #article-content img[alt='JonCarnage'],
+img[alt='JonCarnage'] {
+  width: 60px;
+  height: 60px !important;
+  padding-left: 60px;
+  background: url(https://dawsycat.github.io/css/m_emote_5.gif) no-repeat;
+  background-size: 60px;
+  background-position: center;
+}
+ 
+span[data-param1='JonCarnage']:hover>img,
+span[data-param1='JonCarnage']>img {
+  width: 30px;
+  height: 30px;
+  padding-left: 30px;
+  background: url(https://dawsycat.github.io/css/m_emote_5.gif) no-repeat;
+  background-size: 30px;
+  background-position: center;
+}
+ 
+#article-content-wrapper #article-content img[alt='RedCoat'],
+img[alt='RedCoat'] {
+  width: 60px;
+  height: 60px !important;
+  padding-left: 60px;
+  background: url(https://dawsycat.github.io/css/m_emote_4.gif) no-repeat;
+  background-size: 80px;
+  background-position: center;
+}
+ 
+span[data-param1='RedCoat']:hover>img,
+span[data-param1='RedCoat']>img {
+  width: 30px;
+  height: 30px;
+  padding-left: 30px;
+  background: url(https://dawsycat.github.io/css/m_emote_4.gif) no-repeat;
+  background-size: 30px;
+  background-position: center;
+}
+ 
+#article-content-wrapper #article-content img[alt='TheRinger'],
+img[alt='TheRinger'] {
+  width: 60px;
+  height: 60px !important;
+  padding-left: 60px;
+  background: url(https://dawsycat.github.io/css/m_emote_3.gif) no-repeat;
+  background-size: 60px;
+  background-position: center;
+}
+ 
+span[data-param1='TheRinger']:hover>img,
+span[data-param1='TheRinger']>img {
+  width: 30px;
+  height: 30px;
+  padding-left: 30px;
+  background: url(https://dawsycat.github.io/css/m_emote_3.gif) no-repeat;
+  background-size: 30px;
+  background-position: center;
+}
+ 
+#article-content-wrapper #article-content img[alt='StoneLightning'],
+img[alt='StoneLightning'] {
+  width: 60px;
+  height: 60px !important;
+  padding-left: 60px;
+  background: url(https://dawsycat.github.io/css/m_emote_2.gif) no-repeat;
+  background-size: 80px;
+  background-position: center;
+}
+ 
+span[data-param1='StoneLightning']:hover>img,
+span[data-param1='StoneLightning']>img {
+  width: 30px;
+  height: 30px;
+  padding-left: 30px;
+  background: url(https://dawsycat.github.io/css/m_emote_2.gif) no-repeat;
+  background-size: 30px;
+  background-position: center;
+}
+ 
+#article-content-wrapper #article-content img[alt='JKanStyle'],
+img[alt='JKanStyle'] {
+  width: 60px;
+  height: 60px !important;
+  padding-left: 60px;
+  background: url(https://dawsycat.github.io/css/m_emote_1.gif) no-repeat;
+  background-size: 120px;
+  background-position: center;
+}
+ 
+span[data-param1='JKanStyle']:hover>img,
+span[data-param1='JKanStyle']>img {
+  width: 30px;
+  height: 30px;
+  padding-left: 30px;
+  background: url(https://dawsycat.github.io/css/m_emote_1.gif) no-repeat;
+  background-size: 60px;
+  background-position: center;
+}
+ 
+#article-content-wrapper #article-content img[alt='OptimizePrime'],
+img[alt='OptimizePrime'] {
+  width: 60px;
+  height: 60px !important;
+  padding-left: 60px;
+  background: url(https://dawsycat.github.io/css/s_emote_1.jpg) no-repeat;
+  background-size: 60px;
+  background-position: center;
+}
+ 
+span[data-param1='OptimizePrime']:hover>img,
+span[data-param1='OptimizePrime']>img {
+  width: 30px;
+  height: 30px;
+  padding-left: 30px;
+  background: url(https://dawsycat.github.io/css/s_emote_1.jpg) no-repeat;
+  background-size: 50px;
+  background-position: center;
+}
+ 
+/* tjskdutls emote */
+ 
+#article-content-wrapper #article-content img[alt='tjskduTomato'],
+img[alt='tjskduTomato'] {
+  width: 56px;
+  height: 56px !important;
+  padding-left: 56px;
+  background: url(https://static-cdn.jtvnw.net/emoticons/v1/1126624/3.0) no-repeat;
+  background-size: 56px;
+  background-position: center;
+}
+ 
+#article-content-wrapper #article-content img[alt='tjskduAh'],
+img[alt='tjskduAh'] {
+  width: 56px;
+  height: 56px !important;
+  padding-left: 56px;
+  background: url(https://static-cdn.jtvnw.net/emoticons/v1/608810/3.0) no-repeat;
+  background-size: 56px;
+  background-position: center;
+}
+ 
+#article-content-wrapper #article-content img[alt='tjskduCry'],
+img[alt='tjskduCry'] {
+  width: 56px;
+  height: 56px !important;
+  padding-left: 56px;
+  background: url(https://static-cdn.jtvnw.net/emoticons/v1/1126109/3.0) no-repeat;
+  background-size: 56px;
+  background-position: center;
+}
+ 
+#article-content-wrapper #article-content img[alt='tjskduHi'],
+img[alt='tjskduHi'] {
+  width: 56px;
+  height: 56px !important;
+  padding-left: 56px;
+  background: url(https://static-cdn.jtvnw.net/emoticons/v1/560760/3.0) no-repeat;
+  background-size: 56px;
+  background-position: center;
+}
+ 
+#article-content-wrapper #article-content img[alt='tjskduJju'],
+img[alt='tjskduJju'] {
+  width: 56px;
+  height: 56px !important;
+  padding-left: 56px;
+  background: url(https://static-cdn.jtvnw.net/emoticons/v1/913809/3.0) no-repeat;
+  background-size: 56px;
+  background-position: center;
+}
+ 
+#article-content-wrapper #article-content img[alt='tjskduLight'],
+img[alt='tjskduLight'] {
+  width: 56px;
+  height: 56px !important;
+  padding-left: 56px;
+  background: url(https://static-cdn.jtvnw.net/emoticons/v1/1126621/3.0) no-repeat;
+  background-size: 56px;
+  background-position: center;
+}
+ 
+#article-content-wrapper #article-content img[alt='tjskduMnet'],
+img[alt='tjskduMnet'] {
+  width: 56px;
+  height: 56px !important;
+  padding-left: 56px;
+  background: url(https://static-cdn.jtvnw.net/emoticons/v1/494517/3.0) no-repeat;
+  background-size: 56px;
+  background-position: center;
+}
+ 
+#article-content-wrapper #article-content img[alt='tjskduMuhae'],
+img[alt='tjskduMuhae'] {
+  width: 56px;
+  height: 56px !important;
+  padding-left: 56px;
+  background: url(https://static-cdn.jtvnw.net/emoticons/v1/755745/3.0) no-repeat;
+  background-size: 56px;
+  background-position: center;
+}
+ 
+#article-content-wrapper #article-content img[alt='tjskduMuruk'],
+img[alt='tjskduMuruk'] {
+  width: 56px;
+  height: 56px !important;
+  padding-left: 56px;
+  background: url(https://static-cdn.jtvnw.net/emoticons/v1/601384/3.0) no-repeat;
+  background-size: 56px;
+  background-position: center;
+}
+ 
+#article-content-wrapper #article-content img[alt='tjskduMuyo'],
+img[alt='tjskduMuyo'] {
+  width: 56px;
+  height: 56px !important;
+  padding-left: 56px;
+  background: url(https://static-cdn.jtvnw.net/emoticons/v1/755744/3.0) no-repeat;
+  background-size: 56px;
+  background-position: center;
+}
+ 
+#article-content-wrapper #article-content img[alt='tjskduRealmadridd'],
+img[alt='tjskduRealmadridd'] {
+  width: 56px;
+  height: 56px !important;
+  padding-left: 56px;
+  background: url(https://static-cdn.jtvnw.net/emoticons/v1/497458/3.0) no-repeat;
+  background-size: 56px;
+  background-position: center;
+}
+ 
+#article-content-wrapper #article-content img[alt='tjskduSleep'],
+img[alt='tjskduSleep'] {
+  width: 56px;
+  height: 56px !important;
+  padding-left: 56px;
+  background: url(https://static-cdn.jtvnw.net/emoticons/v1/497439/3.0) no-repeat;
+  background-size: 56px;
+  background-position: center;
+}
+ 
+#article-content-wrapper #article-content img[alt='tjskduSsi'],
+img[alt='tjskduSsi'] {
+  width: 56px;
+  height: 56px !important;
+  padding-left: 56px;
+  background: url(https://static-cdn.jtvnw.net/emoticons/v1/896568/3.0) no-repeat;
+  background-size: 56px;
+  background-position: center;
+}
+ 
+#article-content-wrapper #article-content img[alt='tjskduStairs'],
+img[alt='tjskduStairs'] {
+  width: 56px;
+  height: 56px !important;
+  padding-left: 56px;
+  background: url(https://static-cdn.jtvnw.net/emoticons/v1/560756/3.0) no-repeat;
+  background-size: 56px;
+  background-position: center;
+}
+ 
+#article-content-wrapper #article-content img[alt='tjskduWhat'],
+img[alt='tjskduWhat'] {
+  width: 56px;
+  height: 56px !important;
+  padding-left: 56px;
+  background: url(https://static-cdn.jtvnw.net/emoticons/v1/630889/3.0) no-repeat;
+  background-size: 56px;
+  background-position: center;
+}
+ 
+#article-content-wrapper #article-content img[alt='tjskduWho'],
+img[alt='tjskduWho'] {
+  width: 56px;
+  height: 56px !important;
+  padding-left: 56px;
+  background: url(https://static-cdn.jtvnw.net/emoticons/v1/560765/3.0) no-repeat;
+  background-size: 56px;
+  background-position: center;
+}
+ 
+#article-content-wrapper #article-content img[alt='tjskduBlood'],
+img[alt='tjskduBlood'] {
+  width: 56px;
+  height: 56px !important;
+  padding-left: 56px;
+  background: url(https://static-cdn.jtvnw.net/emoticons/v1/1126619/3.0) no-repeat;
+  background-size: 56px;
+  background-position: center;
+}
+ 
+#article-content-wrapper #article-content img[alt='tjskduFace'],
+img[alt='tjskduFace'] {
+  width: 56px;
+  height: 56px !important;
+  padding-left: 56px;
+  background: url(https://static-cdn.jtvnw.net/emoticons/v1/601405/3.0) no-repeat;
+  background-size: 56px;
+  background-position: center;
+}
+ 
+.fr-command.fr-emoticon>img,
+.fr-command.fr-emoticon {
+  width: 30px !important;
+  height: 30px !important;
+}
+ 
+ 
+ 
+/*whole background*/
+ 
+body,html{height:auto!important}
+html{padding:60px 45px 45px; 0 0/250px 60px}
+body{background:#f4f0f4;min-width:1140px;
+}
+ 
+ 
+html {
+  height: auto !important;
+  background: #fff0e4 url(https://dawsycat.github.io/css/snrear.png);
+  background-repeat: no-repeat;
+  background-position: bottom center;
+  background-size: 810px;
+  min-width: 1100px;
+  letter-spacing: -0.05em !important;
+}
+ 
+body {
+  background: transparent;
+  letter-spacing: -0.05em !important;
+  transition:.2s;
+}
+ 
+ 
+/* header-bar top*/
+ 
+header #header-bar>.row {
+    border-radius: 15px;
+    margin-top: 40px;
+    border: 3px solid;
+    border-color: #fdd692;
+    padding-top: 0.3em;
+    padding-bottom: 0.3em;
+    margin-bottom: -20px;
+    color: #fff;
+    background: linear-gradient(-45deg, #FDD692, #fb944b, #FDD692, #fb944b);
+    background-size: 400% 400%;
+    -webkit-animation: Gradient 15s ease infinite;
+    -moz-animation: Gradient 15s ease infinite;
+    animation: Gradient 15s ease infinite;
+}
+ 
+ 
+@-webkit-keyframes Gradient {
+    0% {
+        background-position: 0% 50%
+    }
+    50% {
+        background-position: 100% 50%
+    }
+    100% {
+        background-position: 0% 50%
+    }
+}
+ 
+@-moz-keyframes Gradient {
+    0% {
+        background-position: 0% 50%
+    }
+    50% {
+        background-position: 100% 50%
+    }
+    100% {
+        background-position: 0% 50%
+    }
+}
+ 
+@keyframes Gradient {
+    0% {
+        background-position: 0% 50%
+    }
+    50% {
+        background-position: 100% 50%
+    }
+    100% {
+        background-position: 0% 50%
+    }
+}
+ 
+ 
+/* commercial area */
+ 
+header #header-bar #header-top-notice a {
+    color: #fff;
+    text-decoration: none;
+}
+ 
+header #header-bar #header-top-notice {
+  color: white !important;
+  padding:0em;
+}
+ 
+header #header-bar #header-top-notice strong.notice-badge {
+    display: inline-block;
+    background-color: transparent;
+    border: 1.5px dashed;
+    border-color: #fff0e4;
+    color: #fff0e4;
+    text-decoration: none;
+}
+ 
+/* header */
+ 
+header .row>div:nth-child(1)>a {
+  display: block;
+  width: 200px;
+  height: 75px;
+  background: url(https://dawsycat.github.io/css/seohead7.png) no-repeat;
+  background-size: auto 75px;
+  margin-bottom:-20px;
+}
+ 
+header .row>div:nth-child(1)>a>img {
+  display: none;
+}
+/*streamer profile*/
+#board-info #board-info-profile-img {
+    height: auto;
+    width: 60px;
+    margin-right: 15px;
+    border: 2px solid #fdd692;
+    border-radius: 15px;
+    transition: 0.2s;
+}
+ 
+/*squares on leftside*/
+.fa-square:before {
+    color: #FDD692;
+}
+/*search button top*/
+ 
+ 
+header #right-search-form>input[type='text'] {
+  color: black !important;
+    position: relative;
+  border: 3px solid #FDD692;
+  transition: 0.2s;
+    background: #fff;
+    font-size: 1.1em;
+}
+ 
+header #right-search-form>input[type='text']:hover,
+header #right-search-form>input[type='text']:focus {
+    transform: scale(1.05);
+    transition: 0.2s;
+}
+ 
+ 
+/* search button below */
+ 
+header #right-search-form>#right-search-btn {
+    color: #FDD692;
+    background: transparent;
+    font-size: 1.4em;
+}
+ 
+/*side menu */
+ 
+#main #main-content>div.frame {
+    background: transparent;
+    border-right: none;
+    border-bottom: none;
+}
+ 
+#main #main-content .frame {
+    height: 100%;
+    border: none;
+    padding: 15px;
+    margin-bottom: 70px;
+}
+ 
+#main .menu-wrapper {
+    margin-top:15px;
+    border: 2px solid;
+    border-color: #fdd692;
+    border-radius: 15px 0 0 0;
+}
+ 
+#main .menu-wrapper>.header {
+    /* border: 2px solid; */
+    /* border-color: #fdd692; */
+    border-radius: 10px 0 0 0;
+    background: linear-gradient(150deg,#fdd692 0, #fdd692 50%,#fb944b 98%);
+    font-weight: 900;
+}
+ 
+#main .menu-wrapper .spacer {
+    background: none;
+    height: 0.35em;
+}
+ 
+.fa-navicon:before,
+.fa-reorder:before,
+.fa-bars:before,
+.fa-square:before{
+color: #FDD692;
+}
+ 
+ 
+#main .menu-wrapper>a>em {
+    color: #FDD692;
+    width: 24px;
+    text-align: center;
+    display: inline-block;
+    font-weight: bold;
+}
+ 
+header #header-bar .fa {
+  color: #fff;
+}
+ 
+header #header-bar a.dropdown-toggle {
+    display: inline-block;
+    color: #fff;
+    text-decoration: none;
+    padding: 0.3em 0;
+}
+#article-list #article-option-area>#article-option-area-toggle-btn{
+    background: #ffffff00;
+}
+ 
+#board-info {
+    margin-top: 10px;
+    margin: 0;
+    height: auto;
+    background: transparent;
+    border: 3px solid #fdd692;
+    margin-bottom: 0.5em;
+}
+ 
+#board-info h1>a.badge.badge-live {
+    margin-left: 5px;
+    border-radius: 5px;
+    font-size: 0px;
+    background: #c00;
+    color: #fff !important;
+    text-decoration: none;
+    padding-top: 4px;
+}
+#board-info h1>a.badge.badge-live::after {
+  content: '생방송중!';
+  color: white !important;
+  font-size: 15px !important;
+}
+.badge {
+    margin-left: 0.5em;
+    display: inline-block;
+    min-width: 10px;
+    padding: 3px 7px;
+    font-size: 12px;
+    font-weight: 700;
+    line-height: 1;
+    color: #fff;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    background-color: #F17F42;
+    border-radius: 10px;
+}
+#viewers::after {
+  content: '명의 무쨍이들';
+    color: #f17f42;
+}
+ 
+#board-info #viewers-area .fa-user:before {
+    margin-top: -8px;
+    content: url(https://dawsycat.github.io/css/tomato.png);
+}
+ 
+#board-info #viewers-area {
+    margin-left: 0.5em;
+    font-size: 14px;
+    color: #F17F42;
+    vertical-align: middle;
+    line-height: 18px;
+    display: inline-block;
+}
+ 
+#board-info h1 {
+  flex: auto;
+  padding-bottom: 0;
+  font-size: 15px;
+  border: none;
+}
+ 
+ 
+#board-info h1>a {
+  font-size:25px;
+  font-weight: 900;
+  color: #f3712b !important;
+   transition: 0.2s;
+}
+ 
+#board-info>img, #board-info>h1, #board-info>#board-info-bottom {
+  margin-right: 10px;
+}
+ 
+/* tgd menu */
+ 
+#board-info #board-info-bottom a {
+    color: #CE6D39;
+    margin-top: 1em;
+}
+ 
+/* left menu */
+ 
+#main .menu-wrapper>a>em {
+  color: #FDD692;
+}
+ 
+#main .menu-wrapper .spacer {
+  background: transparent;
+  height: 0.15em;
+}
+ 
+/* article-list */
+ 
+#article-list>.article-list-row>.item>.list-title>small.favo {
+    color: #f7abab;
+}
+ 
+ 
+#article-list>.article-list-row>.item>.list-title>a{
+max-width:360px;
+    height: 20px;
+}
+ 
+#article-list #article-list-category>a {
+background: #ffe5c4;
+ color: #ffe5c4;
+    position: relative;
+}
+ 
+#article-list #article-list-category>a::before {
+    top: 0;
+}
+ 
+#article-list #article-list-category>a::after {
+    bottom: 0;
+}
+ 
+#article-list #article-list-category>a::before, #article-list #article-list-category>a::after {
+    height: 2px;
+    width: 100%;
+    background: #ffffff;
+    content: "";
+    position: absolute;
+    left: 0px;
+    transform: scaleX(0);
+    transition: 0.3s;
+}
+ 
+#article-list #article-list-category>a:hover::before, #article-list #article-list-category>a:hover::after {
+    transform: scaleX(1);
+}
+ 
+#article-list>.article-list-row.notice {
+    background-color: #ffe5c4;
+}
+/*article anim*/
+ 
+#article-list>.article-list-row {
+    border: none;
+    transition: 0.2s;
+}
+ 
+#article-list>.article-list-row:hover,
+#article-list>.article-list-row:focus {
+    background-color: #ffe5c4;
+    transform: scale(1.01);
+    transition: 0.2s;
+}
+ 
+#article-content-wrapper>.header {
+    border-top: 2px solid #fdd692;
+    background: #f6f6f6;
+    padding: 0.6em 0.8em;
+}
+ 
+.list-header * {
+    background: transparent !important;
+    color:#f17f42 !important;
+    font-weight:bold;
+}
+#article-list > .article-list-row > .item > .list-header {
+    border-left: none;
+}
+ 
+#article-list>.article-list-row.hot{    background: linear-gradient(-45deg, #FDD692, #ffad73, #FFEEE4, #FDD692);
+    background-size: 400% 400%;
+    -webkit-animation: Gradient 20s ease infinite;
+    -moz-animation: Gradient 20s ease infinite;
+    animation: Gradient 20s ease infinite;
+}
+ 
+@-webkit-keyframes Gradient {
+    0% {
+        background-position: 0% 50%
+    }
+    50% {
+        background-position: 100% 50%
+    }
+    100% {
+        background-position: 0% 50%
+    }
+}
+ 
+@-moz-keyframes Gradient {
+    0% {
+        background-position: 0% 50%
+    }
+    50% {
+        background-position: 100% 50%
+    }
+    100% {
+        background-position: 0% 50%
+    }
+}
+ 
+@keyframes Gradient {
+    0% {
+        background-position: 0% 50%
+    }
+    50% {
+        background-position: 100% 50%
+    }
+    100% {
+        background-position: 0% 50%
+    }
+};}
+ 
+#article-content-wrapper>.header {
+    border-top: 3px solid #FDD692;
+    background: #fdd692;
+    padding: 0.6em 0.8em;
+}
+ 
+#article-list {
+  margin-top: 0;
+}
+ 
+#article-list>.article-list-row>.item>.list-title>.list-writer>span {
+width:165px!important;
+height:19px;
+}
+ 
+#article-list #article-list-category {
+    border-top: none !important;
+    background: linear-gradient(125deg, #FDD692 80%, #fb944b 90%);
+  border-radius: 5px 5px 0 0;
+}
+ 
+#article-list>#article-list-category>a:first-child {
+  border-radius: 5px 0 0 0;
+}
+ 
+#article-list #article-list-category>a {
+    background: #FDD692 !important;
+    color: white !important;
+}
+ 
+#article-list>.article-list-row>.item>.list-header.v0>span{
+background-color: transparent!important;
+border:none;}
+ 
+#article-list>.article-list-row>.item>.list-header>span {
+  background-color: #FDD692;
+  width:165px;height:19px;
+}
+ 
+#article-list>.article-list-row>.item>.list-title>small.comment-count {
+padding:0 4px;
+top:2px;
+  color: #f3712b;
+  letter-spacing: -0.05em !important;
+}
+ 
+#article-list>.article-list-row>.item>.list-title>.list-writer.logged>span {
+  color: #f3712b;
+}
+ 
+.pagination > .active > a, .pagination > .active > a:focus, .pagination > .active > a:hover, .pagination > .active > span, .pagination > .active > span:focus, .pagination > .active > span:hover {
+    background-color: #f17f42;
+    border: #CE6D39;
+}
+ 
+.pagination>li>a:focus,
+.pagination>li>a:hover,
+.pagination>li>span:focus,
+.pagination>li>span:hover {
+  color: #FDD692;
+}
+ 
+.pagination>li>a,
+.pagination>li>span {
+  color: #FDD692;
+}
+ 
+.fr-toolbar{
+    border-top: 5px solid #FDD692;
+}
+ 
+#article-neighbor-list>div:hover, #article-neighbor-list>div:focus {
+    background: linear-gradient(to right, transparent, #fdd692, transparent);
+}
+ 
+#article-neighbor-list>div>a,
+#article-neighbor-list>div>span.indicator,
+#article-neighbor-list>div>span.author {
+color: #F17F42;
+}
+#article-reply-area #reply-real-area .reply>.reply-header>.reply-writer.logged,
+#article-reply-area #reply-best-area .reply>.reply-header>.reply-writer.logged {
+  color: #f3712b;
+}
+ 
+#article-reply-area #reply-best-area .reply>.reply-header>.reply-writer.logged,#article-reply-area #reply-real-area .reply>.reply-header>.reply-writer.logged{color:f3712b;white-space:nowrap}
+ 
+ 
+#article-info>h2 {
+  font-weight: bold;
+}
+ 
+ 
+#article-reply-area>.header h5 {
+  color: #F17F42;
+}
+ 
+#main .menu-wrapper>a {
+  padding: 0.5em 1.4em 0.5em 0.7em !important;
+}
+ 
+a {
+  color: #F17F42;
+}
+ 
+span.a-badge i.fa.fa-info-circle {
+  color: #F17F42;
+}
+ 
+a#loadNewCommentsBtn {
+    color: #fff !important;
+    background-color: #F17F42;
+    border-color: #FDD692;
+}
+a#loadNewCommentsBtn:hover {
+    color: #fff !important;
+    background-color: #FDD692;
+    border-color: #F17F42;
+}
+/* footer */
+ 
+#article-list>.article-list-row {
+  border-right: none;
+}
+ 
+#article-list #article-list-menu {
+  box-sizing: border-box;
+  width: unset;
+  margin: 20px;
+}
+ 
+#article-list #boardSearchForm {
+  padding-bottom: 20px;
+  height: unset;
+}
+/* 인기글 버튼 */
+ 
+#article-list-menu>.btn.best {
+    border: 3px dashed;
+    border-radius: 5px;
+ 
+}
+ 
+.btn-primary {
+    background: #F17F42 !important;
+    border: transparent;
+}
+ 
+/* header on top */
+ 
+header {
+    margin-top: -40px;
+  min-width: 1100px;
+  margin-bottom: 1em;
+    outline: 4px solid #fb944b;
+    margin-bottom: 0.5em;
+    background-image: url(https://dawsycat.github.io/css/snrhigh.png), linear-gradient(70deg, #FDD692 0, #fb944b 70%);
+    background-repeat: no-repeat;
+    background-size: 210px, cover;
+    background-position: 65%, 0 0;
+}
+/*header:hover{  
+ margin-bottom: 0.5em;
+    background-repeat: no-repeat;
+    background-image: url(https://dawsycat.github.io/css/snrpixelartbluetone.png), linear-gradient(70deg, #FDD692 0, #F17F42 70%);
+    background-repeat: no-repeat;
+  background-size: 120px,cover;
+  background-position: 64% 0 0;
+ 
+}
+ 
+@keyframes fadein {
+  0% {
+    opacity: 0;
+  }
+  50% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0;
+  }
+}*/
+/* header .col-xs-4:after {
+  display: block;
+    content: '.';
+    position: absolute;
+    left: 150px;
+    top: -10px;
+    width: 300px;
+    background: url(https://dawsycat.github.io/css/moon.png);
+    height: 110px;
+    background-position: bottom;
+    background-size: 80%;
+    background-repeat: no-repeat;
+    margin: 0;
+    padding: 0;
+} */
+/* body::before {
+  content: '';
+  opacity: 0;
+  animation: 13s ease 5s normal forwards 1 fadein;
+  animation-iteration-count: infinite;
+  width: 100%;
+  height: 106px;
+  background: red;
+  background: #245c73 url('https://dawsycat.github.io/css/snrartpicturebluetone.png') no-repeat;
+  background-size: 180px auto;
+  background-position: 65% bottom;
+  position: absolute;
+  display: block;
+  top: 0;
+  left: 0;
+} */
+ 
+header #header-bar {
+  margin-top: 4em;
+  margin-bottom: 1.5em;
+}
+ 
+.dropdown-menu-right {
+  /* display: block; */
+}
+ 
+ 
+#header-top-notice>a {
+  color: white !important;
+}
+ 
+#article-list {
+  padding: 0 !important;
+}
+ 
+#article-list>.article-list-row>.item>.list-header {
+    width: 40px;
+    border-left: none;
+}
+ 
+header #header-bar #header-menu-right {
+  border-left: none;
+}
+ 
+header #header-bar #header-menu-left {
+  border-right: none;
+}
+ 
+#article-content-wrapper {
+  padding: 0;
+}
+ 
+#article-list>.article-list-row>.item>.list-title>.list-writer {
+  text-align: left;
+}
+ 
+#article-list>.article-list-row>.item>.list-title>.list-category {
+  width: 80px;
+}
+ 
+#article-list>.article-list-row>.item>.list-checkbox,
+#article-list>.article-list-row>.item>.list-header,
+#article-list>.article-list-row>.item>.list-category,
+#article-list>.article-list-row>.item>.list-title,
+#article-list>.article-list-row>.item>.list-blocked,
+#article-list>.article-list-row>.item>.list-time {
+  border-bottom: 2px dashed #FDD692;
+}
+ 
+footer * {
+  color: white !important;
+}
+ 
+/* footer {
+  outline: 5px dashed #010202;
+  background: #245c73;
+} */
+ 
+#article-reply-area #reply-real-area .reply>.reply-content,
+#article-reply-area #reply-best-area .reply>.reply-content {
+  background: white !important;
+}
+ 
+.v0>span {
+  background: #f3f2f0 !important;
+  color: #f3f2f0 !important;
+}
+ 
+.dropdown-menu {
+  text-shadow: none;
+}
+ 
+#comment-write-form-area,
+#article-reply-area #reply-real-area,
+#article-reply-area #reply-best-area {
+  padding: 0;
+}
+ 
+#article-info {
+  border-radius: 5px 5px 0 0;
+  background: #FDD692;
+}
+ 
+#article-info * {
+  color: white !important;
+}
+ 
+#article-content-wrapper>.footer {
+  /* border-top: 2px solid #fdd692; */
+}
+ 
+#article-content-wrapper #article-content,
+#article-content-wrapper>.vote-area {
+  background: white !important;
+}
+ 
+#article-info #article-info-writer {
+  padding-bottom: 4px;
+}
+ 
+ 
+#article-list>.article-list-row>.item>.list-title>a:visited {
+  color: #888 !important;
+}
+ 
+/*searchtab below*/
+#boardSearchForm * {
+  background: white !important;
+  border: none !important;
+}
+ 
+.fa-square:before {
+ 
+    color: #fdd692;
+ 
+}
+ 
+#article-list #article-list-category {
+ 
+   border-top: 2px solid #fdd692;
+}
+ 
+ 
+/* dropdowns */
+.dropdown.open .dropdown-menu,
+.input-group-btn.open .dropdown-menu {
+    opacity: unset;
+    transform: unset;
+    border: 2px solid #fdd692;
+    box-shadow: 0 2px 2px rgba(0, 0, 0, 0.275);
+}
+ 
+.dropdown .dropdown-menu,
+.input-group-btn .dropdown-menu {
+    display: block !important;
+    opacity: 0;
+    transform: scale(0);
+    transform-origin: top;
+    transition: all 0.4s cubic-bezier(0.18, 1.5, 0, 1);
+    padding: 8px 0 3px 0px;
+}
+ 
+.dropdown-menu>li>a {
+    transition: 0.1s;
+}
+ 
+.dropdown-menu>li>a:hover {
+    background: transparent;
+    transform: scaleX(1.04);
+    transition: 0.1s;
+}
+ 
+#latestDropdownMenu>li>a>span.delrow,
+#favoriteDropdownMenu>li>a>span.delrow {
+    color: #fdd692;
+}
+ 
+#latestDropdownMenu>li>a>span.delrow:hover,
+#favoriteDropdownMenu>li>a>span.delrow:hover {
+    background: transparent;
+}
+ 
+#favoriteDropdownMenu>li>a>span.label.label-default {
+    background-color: #fdd692;
+}
+ 
+.dropdown-menu .divider {
+    background-color: #fdd692;
+    height: 2px;
+    margin: 3px 0;
+}
+ 
+ 
+
+/* 진은검 가리개 */
+ 
+ 
+ 
+img[src="https://static-cdn.jtvnw.net/chat-badges/mod.png"] {
+ 
+    display: none;
+ 
+}
