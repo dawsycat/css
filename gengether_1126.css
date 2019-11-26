@@ -33,7 +33,7 @@ header .row>div:nth-child(1) > a > img {
 
 html {
   padding:20px 45px 45px; 0 0/250px 60px;
-  background: linear-gradient(to bottom, #fad5e5, #f5989f);
+  background: linear-gradient(#ffd6e8 0%, #fd848d 60%,#a181f3 80%, #e400da 120%);
   height: auto !important;
 }
 
