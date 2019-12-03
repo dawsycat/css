@@ -1,0 +1,420 @@
+﻿/* 배경 */
+
+nav#nav>.nav-header {
+    border-top: 4px solid #f8bbd0;
+    margin-top: 12px;
+    background: linear-gradient(-45deg,#fad5e5 0,#f5989f 70%);
+    color: #fff;
+    padding: 6px 12px;
+}
+
+nav#nav > .nav-menu-area a{
+    font-size: 13px;
+}
+
+body {
+
+    background:  linear-gradient(180deg,#fad5e5 0,#f5989f 80%);   
+
+
+}
+
+
+
+/* 로고 */
+
+
+
+header>#header-area>a>h1 {
+  background: url(https://dawsycat.github.io/css/christmasbiglogo2.png) no-repeat;
+  background-size: 86px auto;
+  background-repeat: no-repeat;
+  height: unset !important;    
+  margin: 3px;
+}
+
+
+
+/* 검색 창 */
+
+
+
+header > #header-search-bar #header-search-input {
+
+    border: 2px solid #f48fb1;
+    border-radius: 15px;
+
+}
+
+
+
+/* 검색 버튼 */
+
+header>#header-area>#header-bar-link {
+    display: inline-block;
+    text-decoration: none;
+    float: left;
+    color: #ffa1ca;
+    padding: 0 16px 8px;
+}
+header > #header-search-bar #header-close-search-btn {
+    display: inline-block;
+    color: #f8bbd0;
+    padding: 0px 16px 0px 0;
+    width: 50px;
+    text-align: right;
+}
+header>#header-area>#header-search-link {
+
+    color: #ffd7db;
+
+}
+
+
+header > #header-search-bar #header-search-btn {
+
+    color: #f48fb1; 
+
+}
+
+
+
+/* 트게더 로고 배너 */
+
+
+
+header {
+    border-bottom: 4px solid #ffa1ca; 
+    background: linear-gradient(-45deg,#ffa1ca 0,#ffd7db 90%); /* 로고 배너 배경 색 */
+
+}
+
+/* 상단 배너 광고 뱃지 */
+
+
+
+#header-top-notice strong.notice-badge {
+
+    background: #f48fb1; /* 광고 뱃지 배경 색 */
+
+}
+
+/* 접속자 수 */
+
+#board-info #viewers-area .fa-user:before {
+    content: url(https://dawsycat.github.io/css/socks.png);
+}
+
+#board-info #viewers-area {
+
+    color: #f97fb3; 
+    font-weight: bold;
+}
+
+
+/* 메인 배너 글 공지 */
+
+
+
+#article-list>.article-list-row.notice {
+
+    background-color: #fff5f9; 
+}
+
+/* 글 추천 수 */
+
+#article-list>.article-list-row>.item>.list-header>span {
+    background: transparent;
+    color: #f48fb1;
+}
+
+/* 댓글 수 */
+
+
+
+#article-list>.article-list-row>.item>a.list-title>small.comment-count {
+
+    color: #f48fb1; 
+}
+
+/* 인기글 버튼 */
+
+
+
+#article-list-menu>.btn.best {
+
+    border-radius: 15px;
+
+}
+
+
+/* 설정 버튼 */
+
+
+
+#article-list-menu>.btn.cog {
+
+    border-radius: 15px;
+
+}
+
+
+
+/* 글 쓰기 버튼 */
+
+button#writeCommentBtn:hover{
+    background: #f8bbd0 !important; 
+}
+button#article-write-button:hover{
+background: #f8bbd0 !important; 
+}
+
+
+#article-list-menu>.btn.write {
+    background-color: #f48fb1;
+    border-radius: 15px;
+
+}
+
+.btn-primary.active.focus, .btn-primary.active:focus, .btn-primary.active:hover, .btn-primary:active.focus, .btn-primary:active:focus, .btn-primary:active:hover, .open>.dropdown-toggle.btn-primary.focus, .open>.dropdown-toggle.btn-primary:focus, .open>.dropdown-toggle.btn-primary:hover {
+    color: #fff;
+    background-color: #f48fb1;
+    border-color: transparent;
+}
+.btn-primary.active, .btn-primary:active, .open>.dropdown-toggle.btn-primary {
+    background-image: none;
+}
+.btn-primary.active, .btn-primary:active, .open>.dropdown-toggle.btn-primary {
+    color: #fff;
+    background-color: #f48fb1;
+    border-color: transparent;
+}
+.btn-primary:hover {
+    color: #fff;
+    background-color: #ec407a;
+    border-color: transparent;
+}
+
+/* 목록 버튼 */
+
+.badge{
+    background-color: #f48fb1;
+}
+
+.btn {
+
+    border-radius: 15px;
+
+}
+
+
+
+.btn-group-sm>.btn, .btn-sm {
+
+    border-radius: 15px;
+
+}
+
+#board-info h1>a {
+
+    color: #e91e63;
+
+}
+
+#article-list>.article-list-row>.item>a.list-title>.list-writer.logged>span {
+
+    color: #ec407a;
+
+}
+
+.btn-primary {
+    background-color: #f48fb1;
+    border-color: transparent;
+}
+
+
+.btn {
+    border-radius: 15px;
+}
+
+.pagination > .active > a, .pagination > .active > a:focus, .pagination > .active > a:hover, .pagination > .active > span, .pagination > .active > span:focus, .pagination > .active > span:hover {
+background-color: #f48fb1;
+border-color: transparent;
+}
+
+/*categories*/
+
+#board-info>a.board-right-menu {
+    color: #f48fb1;
+    display: inline-block;
+    padding: 10px;
+    border-left: 1px solid #e2e2e2;
+    float: right;
+    text-decoration: none;
+}
+#board-info a.board-right-menu[href="/magenta62/profile"] {
+    display: none;
+}
+#board-info {
+    width: 100%;
+    line-height: unset;
+    margin: 0;
+    background: #fff;
+    border-top: 1px solid #e2e2e2;
+    border-bottom: 1px solid #e2e2e2;
+}
+
+#article-list{
+    position: relative;
+    width: 100%;
+    line-height: 1;
+    padding: 0;
+}
+
+#article-list #article-list-category > a {
+    display: inline-block;
+    padding: 11px 16px;
+    background: #f8bbd0;
+    text-decoration: none;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+#article-list #article-list-category {
+    background: #f8bbd0;
+    width: 100%;
+    white-space: nowrap;
+    overflow-x: auto;
+    overflow-y: hidden;
+    padding-right: 36px;
+}
+
+
+#article-list #article-list-category>a {
+    display: inline-block;
+    padding: 11px 16px;
+    background: #f8bbd0;
+    text-decoration: none;
+    font-size: 12px;
+    font-weight: bold;
+}
+button, a {
+    cursor: pointer;
+}
+
+/*comment area*/
+a {
+    color: #f48fb1;
+    text-decoration: none;
+}
+
+#article-reply-area #reply-real-area .reply > .reply-header > .reply-writer.logged, #article-reply-area #reply-best-area .reply>.reply-header>.reply-writer.logged {
+    font-weight: bold;
+    color: #ec407a;
+    cursor: pointer;
+}
+
+#article-reply-area #reply-real-area .reply > .reply-header {
+    background: #fce4ec !important;
+}
+
+#article-reply-area > .header h5 {
+    font-size: 14px;
+    color: #ec407a;
+    font-weight: bold;
+}
+
+footer {
+    background: #fce4ec;
+    color: #f48fb1;
+    text-align: center;
+    padding: 16px 0;
+    font-size: 12px;
+}
+
+#article-list #article-option-area>#article-option-area-toggle-btn {
+    margin-top: 1.25px;
+margin-right: 375px;
+}
+#article-list #article-option-area {
+    position: fixed;
+    right: 0;
+    top: 0;
+    z-index: 20;
+}
+
+
+
+.btn.square {
+     border-radius:15px 0 0 15px;
+        border: 1px solid #f8bbd0;
+}
+
+.input-group-btn:last-child>.btn, .input-group-btn:last-child>.btn-group {
+    border-radius: 0 15px 15px 0;
+    z-index: 2;
+    margin-left: -1px;
+}
+
+.input-group-btn:last-child>.btn, .input-group-btn:last-child>.btn-group {
+    background-color: #f8bbd0;
+    border-radius: 0 15px 15px 0;
+    z-index: 2;
+    margin-left: -1px;
+}
+
+.input-group-btn>.btn {
+    background-color: #f8bbd0;
+}
+
+/*pagenation*/
+
+.pagination>li>a, .pagination>li>span {
+    color: #f48fb1;
+}
+#article-list>.article-list-row.hot  {background: linear-gradient(-45deg, #f48fb1, #fce4ec, #ffe8f0, #f48fb1);
+	background-size: 400% 400%;
+	-webkit-animation: Gradient 20s ease infinite;
+	-moz-animation: Gradient 20s ease infinite;
+	animation: Gradient 20s ease infinite;
+}
+
+@-webkit-keyframes Gradient {
+	0% {
+		background-position: 0% 50%
+	}
+	50% {
+		background-position: 100% 50%
+	}
+	100% {
+		background-position: 0% 50%
+	}
+}
+
+@-moz-keyframes Gradient {
+	0% {
+		background-position: 0% 50%
+	}
+	50% {
+		background-position: 100% 50%
+	}
+	100% {
+		background-position: 0% 50%
+	}
+}
+
+@keyframes Gradient {
+	0% {
+		background-position: 0% 50%
+	}
+	50% {
+		background-position: 100% 50%
+	}
+	100% {
+		background-position: 0% 50%
+	}
+}
+
+small.favo i.fa.fa-heart {
+    color: #f48fb1;
+}
