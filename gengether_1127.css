@@ -14,13 +14,13 @@ min-width:1140px;
 
 /*tgd logo*/
 header .row>div:nth-child(1)>a {
-  display: block;
-  width: 220px;
-  height: 90px;
+   display: block;
+  width: 200px;
+  height: 70px;
   background: url(https://dawsycat.github.io/css/gentabiglogo.png) no-repeat;
-  background-size: auto 80px;
-  margin-bottom:-10px;
-  margin-top:-30px;
+  background-size: auto 60px;
+  margin-bottom:-15px;
+  margin-top:-15px;
 }
 
 header .row>div:nth-child(1) > a > img {
