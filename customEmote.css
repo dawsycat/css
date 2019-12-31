@@ -1,0 +1,361 @@
+﻿/* custom-emote */
+.fr-command.fr-emoticon>img,
+.fr-command.fr-emoticon {
+  width: 30px !important;
+  height: 30px !important;
+}
+#article-content-wrapper #article-content img[alt='PartyPoro'],
+img[alt='PartyPoro'] {
+  width: 60px;
+  height: 60px !important;
+  padding-left: 60px;
+  background: url(https://dawsycat.github.io/css/genta_emote_01.gif) no-repeat;
+  background-size: 60px;
+  background-position: center;
+}
+
+span[data-param1='PartyPoro']:hover>img,
+span[data-param1='PartyPoro']>img {
+  width: 30px;
+  height: 30px;
+  padding-left: 30px;
+  background: url(https://dawsycat.github.io/css/genta_emote_01.gif) no-repeat;
+  background-size: 30px;
+  background-position: center;
+}
+
+#article-content-wrapper #article-content img[alt='PorscheWIN'],
+img[alt='PorscheWIN'] {
+  width: 60px;
+  height: 60px !important;
+  padding-left: 60px;
+  background: url(https://dawsycat.github.io/css/genta_emote_02.gif) no-repeat;
+  background-size: 60px;
+  background-position: center;
+}
+
+span[data-param1='PorscheWIN']:hover>img,
+span[data-param1='PorscheWIN']>img {
+  width: 30px;
+  height: 30px;
+  padding-left: 30px;
+  background: url(https://dawsycat.github.io/css/genta_emote_02.gif) no-repeat;
+  background-size: 30px;
+  background-position: center;
+}
+
+#article-content-wrapper #article-content img[alt='SingsNote'],
+img[alt='SingsNote'] {
+  width: 60px;
+  height: 60px !important;
+  padding-left: 60px;
+  background: url(https://dawsycat.github.io/css/genta_emote_03.gif) no-repeat;
+  background-size: 60px;
+  background-position: center;
+}
+
+span[data-param1='SingsNote']:hover>img,
+span[data-param1='SingsNote']>img {
+  width: 30px;
+  height: 30px;
+  padding-left: 30px;
+  background: url(https://dawsycat.github.io/css/genta_emote_03.gif) no-repeat;
+  background-size: 30px;
+  background-position: center;
+}
+
+#article-content-wrapper #article-content img[alt='SingsMic'],
+img[alt='SingsMic'] {
+  width: 60px;
+  height: 60px !important;
+  padding-left: 60px;
+  background: url(https://dawsycat.github.io/css/genta_emote_04.gif) no-repeat;
+  background-size: 60px;
+  background-position: center;
+}
+
+span[data-param1='SingsMic']:hover>img,
+span[data-param1='SingsMic']>img {
+  width: 30px;
+  height: 30px;
+  padding-left: 30px;
+  background: url(https://dawsycat.github.io/css/genta_emote_04.gif) no-repeat;
+  background-size: 30px;
+  background-position: center;
+}
+
+#article-content-wrapper #article-content img[alt='TwitchSings'],
+img[alt='TwitchSings] {
+  width: 60px;
+  height: 60px !important;
+  padding-left: 60px;
+  background: url(https://dawsycat.github.io/css/genta_emote_05.gif) no-repeat;
+  background-size: 60px;
+  background-position: center;
+}
+
+span[data-param1='TwitchSings']:hover>img,
+span[data-param1='TwitchSings']>img {
+  width: 30px;
+  height: 30px;
+  padding-left: 30px;
+  background: url(https://dawsycat.github.io/css/genta_emote_05.gif) no-repeat;
+  background-size: 30px;
+  background-position: center;
+}
+
+#article-content-wrapper #article-content img[alt='SoonerLater'],
+img[alt='SoonerLater'] {
+  width: 60px;
+  height: 60px !important;
+  padding-left: 60px;
+  background: url(https://dawsycat.github.io/css/genta_emote_06.gif) no-repeat;
+  background-size: 60px;
+  background-position: center;
+}
+
+span[data-param1='SoonerLater']:hover>img,
+span[data-param1='SoonerLater']>img {
+  width: 30px;
+  height: 30px;
+  padding-left: 30px;
+  background: url(https://dawsycat.github.io/css/genta_emote_06.gif) no-repeat;
+  background-size: 30px;
+  background-position: center;
+}
+#article-content-wrapper #article-content img[alt='HolidayTree'],
+img[alt='HolidayTree'] {
+  width: 60px;
+  height: 60px !important;
+  padding-left: 60px;
+  background: url(https://dawsycat.github.io/css/genta_emote_07.gif) no-repeat;
+  background-size: 60px;
+  background-position: center;
+}
+
+span[data-param1='HolidayTree']:hover>img,
+span[data-param1='HolidayTree']>img {
+  width: 30px;
+  height: 30px;
+  padding-left: 30px;
+  background: url(https://dawsycat.github.io/css/genta_emote_07.gif) no-repeat;
+  background-size: 30px;
+  background-position: center;
+}
+
+#article-content-wrapper #article-content img[alt='HolidaySanta'],
+img[alt='HolidaySanta'] {
+  width: 60px;
+  height: 60px !important;
+  padding-left: 60px;
+  background: url(https://dawsycat.github.io/css/genta_emote_08.gif) no-repeat;
+  background-size: 60px;
+  background-position: center;
+}
+
+span[data-param1='HolidaySanta']:hover>img,
+span[data-param1='HolidaySanta']>img {
+  width: 30px;
+  height: 30px;
+  padding-left: 30px;
+  background: url(https://dawsycat.github.io/css/genta_emote_08.gif) no-repeat;
+  background-size: 30px;
+  background-position: center;
+}
+
+#article-content-wrapper #article-content img[alt='HolidayPresent'],
+img[alt='HolidayPresent'] {
+  width: 60px;
+  height: 60px !important;
+  padding-left: 60px;
+  background: url(https://dawsycat.github.io/css/genta_emote_09.gif) no-repeat;
+  background-size: 60px;
+  background-position: center;
+}
+
+span[data-param1='HolidayPresent']:hover>img,
+span[data-param1='HolidayPresent']>img {
+  width: 30px;
+  height: 30px;
+  padding-left: 30px;
+  background: url(https://dawsycat.github.io/css/genta_emote_09.gif) no-repeat;
+  background-size: 30px;
+  background-position: center;
+}
+
+#article-content-wrapper #article-content img[alt='HolidayOrnament'],
+img[alt='HolidayOrnament'] {
+  width: 60px;
+  height: 60px !important;
+  padding-left: 60px;
+  background: url(https://dawsycat.github.io/css/genta_emote_10.gif) no-repeat;
+  background-size: 60px;
+  background-position: center;
+}
+
+span[data-param1='HolidayOrnament']:hover>img,
+span[data-param1='HolidayOrnament']>img {
+  width: 30px;
+  height: 30px;
+  padding-left: 30px;
+  background: url(https://dawsycat.github.io/css/genta_emote_10.gif) no-repeat;
+  background-size: 30px;
+  background-position: center;
+}
+
+#article-content-wrapper #article-content img[alt='HolidayLog'],
+img[alt='HolidayLog'] {
+  width: 60px;
+  height: 60px !important;
+  padding-left: 60px;
+  background: url(https://dawsycat.github.io/css/genta_emote_11.gif) no-repeat;
+  background-size: 60px;
+  background-position: center;
+}
+
+span[data-param1='HolidayLog']:hover>img,
+span[data-param1='HolidayLog']>img {
+  width: 30px;
+  height: 30px;
+  padding-left: 30px;
+  background: url(https://dawsycat.github.io/css/genta_emote_11.gif) no-repeat;
+  background-size: 30px;
+  background-position: center;
+}
+
+#article-content-wrapper #article-content img[alt='HolidayCookie'],
+img[alt='HolidayCookie'] {
+  width: 60px;
+  height: 60px !important;
+  padding-left: 60px;
+  background: url(https://dawsycat.github.io/css/genta_emote_12.gif) no-repeat;
+  background-size: 60px;
+  background-position: center;
+}
+
+span[data-param1='HolidayCookie']:hover>img,
+span[data-param1='HolidayCookie']>img {
+  width: 30px;
+  height: 30px;
+  padding-left: 30px;
+  background: url(https://dawsycat.github.io/css/genta_emote_12.gif) no-repeat;
+  background-size: 30px;
+  background-position: center;
+}
+
+#article-content-wrapper #article-content img[alt='GunRun'],
+img[alt='GunRun'] {
+  width: 60px;
+  height: 60px !important;
+  padding-left: 60px;
+  background: url(https://dawsycat.github.io/css/genta_emote_13.gif) no-repeat;
+  background-size: 60px;
+  background-position: center;
+}
+
+span[data-param1='GunRun']:hover>img,
+span[data-param1='GunRun']>img {
+  width: 30px;
+  height: 30px;
+  padding-left: 30px;
+  background: url(https://dawsycat.github.io/css/genta_emote_13.gif) no-repeat;
+  background-size: 30px;
+  background-position: center;
+}
+
+#article-content-wrapper #article-content img[alt='PixelBob'],
+img[alt='PixelBob'] {
+  width: 60px;
+  height: 60px !important;
+  padding-left: 60px;
+  background: url(https://dawsycat.github.io/css/genta_emote_14.gif) no-repeat;
+  background-size: 60px;
+  background-position: center;
+}
+
+span[data-param1='PixelBob']:hover>img,
+span[data-param1='PixelBob']>img {
+  width: 30px;
+  height: 30px;
+  padding-left: 30px;
+  background: url(https://dawsycat.github.io/css/genta_emote_14.gif) no-repeat;
+  background-size: 30px;
+  background-position: center;
+}
+#article-content-wrapper #article-content img[alt='FBPenalty'],
+img[alt='FBPenalty'] {
+  width: 60px;
+  height: 60px !important;
+  padding-left: 60px;
+  background: url(https://dawsycat.github.io/css/genta_emote_15.gif) no-repeat;
+  background-size: 60px;
+  background-position: center;
+}
+
+span[data-param1='FBPenalty']:hover>img,
+span[data-param1='FBPenalty']>img {
+  width: 30px;
+  height: 30px;
+  padding-left: 30px;
+  background: url(https://dawsycat.github.io/css/genta_emote_15.gif) no-repeat;
+  background-size: 30px;
+  background-position: center;
+}
+
+#article-content-wrapper #article-content img[alt='FBChellenge'],
+img[alt='FBChellenge'] {
+  width: 60px;
+  height: 60px !important;
+  padding-left: 60px;
+  background: url(https://dawsycat.github.io/css/genta_emote_16.gif) no-repeat;
+  background-size: 60px;
+  background-position: center;
+}
+
+span[data-param1='FBChellenge']:hover>img,
+span[data-param1='FBChellenge']>img {
+  width: 30px;
+  height: 30px;
+  padding-left: 30px;
+  background: url(https://dawsycat.github.io/css/genta_emote_16.gif) no-repeat;
+  background-size: 30px;
+  background-position: center;
+}
+#article-content-wrapper #article-content img[alt='FBCatch'],
+img[alt='FBCatch'] {
+  width: 60px;
+  height: 60px !important;
+  padding-left: 60px;
+  background: url(https://dawsycat.github.io/css/genta_emote_17.gif) no-repeat;
+  background-size: 60px;
+  background-position: center;
+}
+
+span[data-param1='FBCatch']:hover>img,
+span[data-param1='FBCatch']>img {
+  width: 30px;
+  height: 30px;
+  padding-left: 30px;
+  background: url(https://dawsycat.github.io/css/genta_emote_17.gif) no-repeat;
+  background-size: 30px;
+  background-position: center;
+}
+#article-content-wrapper #article-content img[alt='FBBlock'],
+img[alt='FBBlock'] {
+  width: 60px;
+  height: 60px !important;
+  padding-left: 60px;
+  background: url(https://dawsycat.github.io/css/genta_emote_18.gif) no-repeat;
+  background-size: 60px;
+  background-position: center;
+}
+
+span[data-param1='FBBlock']:hover>img,
+span[data-param1='FBBlock']>img {
+  width: 30px;
+  height: 30px;
+  padding-left: 30px;
+  background: url(https://dawsycat.github.io/css/genta_emote_18.gif) no-repeat;
+  background-size: 30px;
+  background-position: center;
+}
