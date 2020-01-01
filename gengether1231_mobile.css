@@ -419,8 +419,8 @@ small.favo i.fa.fa-heart {
     color: #f48fb1;
 }
 .fr-popup.emoticons {
-    height: 200px;
-    overflow: scroll;
+    height: 300px;
+    overflow: hidden;
     overflow-y: auto;
 }
 
