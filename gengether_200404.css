@@ -184,7 +184,7 @@ overflow: visible;}
 }
 
 #board-info #viewers-area .fa-user:before {
-    content: url(https://dawsycat.github.io/css/socks.png);
+    content: url(https://dawsycat.github.io/css/socks.webp);
     Cache-Control: max-age=2628000, public;
 }
 
