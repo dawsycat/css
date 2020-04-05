@@ -3,11 +3,9 @@
 nav#nav>.nav-header {
     border-top: 4px solid #f8bbd0;
     margin-top: 12px;
-    background-color: linear-gradient(-45deg,#fad5e5 0,#f5989f 70%);
+    background: linear-gradient(-45deg,#fad5e5 0,#f5989f 70%);
     color: #fff;
     padding: 6px 12px;
-    background-image: url(https://dawsycat.github.io/css/sakura7.webp);
-    background-size: 300px 300px;
 }
 
 nav#nav > .nav-menu-area a{
@@ -22,13 +20,11 @@ body {
 }
 
 
-
 /* 로고 */
 
 
-
 header>#header-area>a>h1 {
-  background: url(https://dawsycat.github.io/css/gentabiglogo.png) no-repeat;
+  background: url(https://dawsycat.github.io/css/gentabiglogo.webp) no-repeat;
   background-size: 88px auto;
   background-repeat: no-repeat;
   height: unset !important;    
@@ -86,9 +82,10 @@ header > #header-search-bar #header-search-btn {
 
 
 header {
-    border-bottom: 4px solid #ffa1ca; 
-    background: linear-gradient(-45deg,#ffa1ca 0,#ffd7db 90%); /* 로고 배너 배경 색 */
-
+    border-bottom: 4px solid #ffa1ca;
+    background: linear-gradient(-45deg,#ffa1ca 0,#ffd7db 90%);
+    background-image: url(https://dawsycat.github.io/css/sakura7.webp);
+    background-size: 300px 300px;
 }
 
 /* 상단 배너 광고 뱃지 */
@@ -104,7 +101,7 @@ header {
 /* 접속자 수 */
 
 #board-info #viewers-area .fa-user:before {
-    content: url(https://dawsycat.github.io/css/socks.png);
+    content: url(https://dawsycat.github.io/css/socks.webp);
 }
 
 #board-info #viewers-area {
@@ -243,6 +240,8 @@ background: #f8bbd0 !important;
 background-color: #f48fb1;
 border-color: transparent;
 }
+
+
 
 /*categories*/
 
