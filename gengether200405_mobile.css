@@ -85,7 +85,7 @@ header {
     border-bottom: 4px solid #ffa1ca;
     background-color: #ffd7db;
     background-image: url(https://dawsycat.github.io/css/sakura7.webp);
-    background-size: 300px 300px;
+    background-size: 200px 200px;
 }
 
 /* 상단 배너 광고 뱃지 */
@@ -334,8 +334,7 @@ footer {
 }
 
 #article-list #article-option-area>#article-option-area-toggle-btn {
-    margin-top: 1.25px;
-margin-right: 375px;
+display: none;
 }
 #article-list #article-option-area {
     position: fixed;
